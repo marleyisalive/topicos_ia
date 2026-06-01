@@ -140,8 +140,6 @@ En el primer arranque se insertan estudiantes de ejemplo (ver `lib/datos/base_da
 
 ## Solución de problemas
 
-### iOS: la app no abre cámara
-
 - Verifica `NSCameraUsageDescription` en `ios/Runner/Info.plist`.
 
 ### Assets no encontrados
