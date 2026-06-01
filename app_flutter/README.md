@@ -1,4 +1,4 @@
-# Detección de rostros (asistencia)
+# Reconocimiento Facial - ReconoceTec (asistencia)
 
 Aplicación Flutter para registrar asistencia de estudiantes mediante reconocimiento facial. La app captura una imagen con la cámara, detecta el rostro, lo recorta y lo clasifica con un modelo TFLite; luego registra el resultado (incluida la confianza) en SQLite y permite consultar el historial.
 
