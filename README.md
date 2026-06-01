@@ -20,7 +20,7 @@ Tecnologías utilizadas:
 - Flutter
 - Dart
 - TensorFlow Lite
-- Android Studio
+- VSCode
 
 ---
 
@@ -31,7 +31,7 @@ Contiene la documentación generada durante el desarrollo del proyecto.
 Incluye información relacionada con:
 
 -Investigación en PDF
--Video De Prueba
+-Video de Prueba
 
 ---
 
