@@ -4,7 +4,7 @@ Este repositorio contiene el desarrollo de un proyecto de reconocimiento facial 
 
 ## Estructura del Repositorio
 
-### 📱 app_flutter
+###  app_flutter
 
 Contiene la aplicación móvil desarrollada en Flutter y Dart.
 
@@ -24,7 +24,7 @@ Tecnologías utilizadas:
 
 ---
 
-### 📄 documentacion
+###  documentacion
 
 Contiene la documentación generada durante el desarrollo del proyecto.
 
@@ -35,7 +35,7 @@ Incluye información relacionada con:
 
 ---
 
-### 🤖 python
+###  python
 
 Contiene los modelos de inteligencia artificial y los scripts principales utilizados para el entrenamiento y reconocimiento facial.
 
@@ -64,7 +64,8 @@ Desarrollar una aplicación móvil capaz de identificar estudiantes mediante rec
 
 El sistema busca demostrar la integración de técnicas de visión artificial y aprendizaje automático en un entorno educativo mediante una solución móvil funcional.
 
-## Autor
+## Autores
 
-**Eleazar Corrales**  
+**Eleazar Corrales**
+**Bryant Trujillo**
 Ingeniería en Sistemas Computacionales
